@@ -1,0 +1,28 @@
+priority 1
+take notes on page
+save and load docutments 
+easily customize quick keys and shortcuts (special character macros)
+have version control to be able to reopen unsaved documents
+
+
+priority 2
+use AI to automatically create flashcards based on notes
+pick different fonts (custom fonts?)
+load notes from all common text file types
+touch screen integration
+
+
+priority 3
+web version for editing
+templates and themes
+qr code generation for easy access
+
+
+NF
+priority 1
+ease of use familiar feel
+no major bugs in load and save 
+no lag while notetaking and responive optimized
+
+priority 2
+easily scaleable for more feature and functionalities

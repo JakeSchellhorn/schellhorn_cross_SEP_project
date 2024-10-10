@@ -4,7 +4,7 @@ Their Requirements.
 ---
 
 **Base Functionality** (priority 1)
-1. As a user they want to take notes so it has the functionality that makes it a notes app.
+1. As a user they want the functionality write notes so they have thier notes in the application.
 2. As a user they want to be able save and load documents so they can keep them. 
 3. As a user they want easily customize quick keys and shortcuts (special character macros) .so it.
 4. As a user they want to have version control to be able to reopen unsaved documents so they can continue their work.
